@@ -1,0 +1,14 @@
+body{
+            background-image:image("");
+}
+
+
+
+.banner{
+            background: url("https://highlandroastery.com/assets/images/banner/img_01.png")
+            no-repeat center center;
+            background-size: cover ;
+            padding-top: 20%;
+            padding-bottom: 20%;
+            color: #fff;
+}
